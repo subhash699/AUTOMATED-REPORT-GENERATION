@@ -26,3 +26,4 @@ Overall, this task helped me gain practical experience in Python programming, fi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/c78e05d3-722b-4938-99a4-1943bc0fbfd6)
